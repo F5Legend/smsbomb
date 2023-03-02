@@ -3,7 +3,6 @@
 [![Hits](https://hits.sh/gitlab.com/tingirifistik/enough.svg?label=views&extraCount=36250&color=007ec6)](https://github.com/F5Legend/smsbomb)
 
 <img src=https://imgyukle.com/f/2023/03/02/Qapd5M.png height="200px" width="400px"/>
-<img src=https://imgyukle.com/f/2023/03/02/QaDPGh.png height="200px" width="400px"/>
 
 
 <h2>Discord</h2>
