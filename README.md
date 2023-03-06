@@ -7,7 +7,7 @@
 
 <h2>Discord</h2>
 
-https://discord.gg/Gagnx8NX26
+https://discord.gg/oem
 
 <h2>Hızlı Kurulum</h2>
 
@@ -29,4 +29,4 @@ python smsapi.py
 
 
 
-<a href="https://discord.gg/Gagnx8NX26" target="_blank"><img src="https://gifdb.com/images/thumbnail/discord-icon-start-up-f41wavy07pz2w3qk.gif" alt="Buy Me A Coffee" style="height: 100px !important;width: 300px !important;" ></a>
+<a href="https://discord.gg/oem" target="_blank"><img src="https://gifdb.com/images/thumbnail/discord-icon-start-up-f41wavy07pz2w3qk.gif" alt="Buy Me A Coffee" style="height: 100px !important;width: 300px !important;" ></a>
