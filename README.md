@@ -1,4 +1,4 @@
-# Enough
+# F5Legend
 
 [![Hits](https://hits.sh/gitlab.com/tingirifistik/enough.svg?label=views&extraCount=36250&color=007ec6)](https://github.com/F5Legend/smsbomb)
 
@@ -12,14 +12,14 @@ https://discord.gg/oem
 <h2>Hızlı Kurulum</h2>
 
 ```
-start.bat yönetici olarak çalıştırın
+çalıştır.bat yönetici olarak çalıştırın
 ```
 <h2>Manuel Kurulum</h2>
 
 ```
 Console bunları yazın
 pip3 install -r requirements.txt 
-python smsapi.py
+python sms.py
 ```
 
 
